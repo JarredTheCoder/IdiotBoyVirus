@@ -1,0 +1,3 @@
+This program has a note when you run it.
+
+Written in: C++, IEXPRESS PACKAGE.
